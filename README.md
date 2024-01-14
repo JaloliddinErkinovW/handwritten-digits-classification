@@ -1,2 +1,2 @@
 # handwritten-digits-classification
-This is a project done on classification handwritten digist by using deep learning
+This is a project done on classification handwritten digits by using deep learning
